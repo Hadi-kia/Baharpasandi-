@@ -1,4 +1,4 @@
-import UpdatePanel from './src/UpdatePanel';
+import UpdatePanel from './UpdatePanel';
 import React,{useState} from 'react';
 import {View,Text,ScrollView,TouchableOpacity,TextInput,StyleSheet,StatusBar,Alert,Share,Linking} from 'react-native';
 import {Ionicons} from '@expo/vector-icons';
